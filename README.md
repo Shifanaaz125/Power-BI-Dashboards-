@@ -80,3 +80,41 @@ e) Geographical expansion strategies focusing on India while improving visibilit
 **Conclusion**
 
 This dashboard showcases my ability to work with complex datasets, draw actionable insights, and create meaningful visualizations. If you’re interested in discussing data analysis and business intelligence further, feel free to connect with me!
+
+# Call Center Dashboard 
+
+Overview
+I recently had the opportunity to analyze call center performance data, leveraging Power BI for visualization. Here’s a glimpse into my process and the insights I uncovered:
+
+**Step 1: Data Preparation**
+Before diving into analysis, I ensured the dataset was clean and ready for visualization. This step was crucial for accurate analysis and smooth integration into Power BI.
+
+
+**Step 2: Key Metrics and Insights**
+Using Power BI, I created an interactive dashboard highlighting key metrics such as:
+
+a)Average Satisfaction Rate: Tracks overall customer satisfaction.
+b)Average Speed of Answer: Measures how quickly calls are answered.
+c)Average Talk Time: Indicates the average duration of calls.
+d)Satisfaction Rating by Agent: Shows individual agent performance.
+e)Call Count by Month: Provides a monthly breakdown of call volumes.
+f)Resolved Calls by Topic: Breaks down call resolution by categories like contract-related, streaming, and technical support.
+
+
+**Key Insights**
+
+Agent Performance: Jim has the highest number of answered calls and satisfaction ratings, indicating strong performance.
+
+Call Resolution: Streaming and technical support are the most common issues resolved.
+
+Monthly Trends: Call volumes remain stable with minor fluctuations.
+
+**Recommendations**
+
+Training: Provide additional training for agents with lower satisfaction ratings.
+
+Resource Allocation: Ensure adequate staffing during peak call times.
+
+Process Improvement: Streamline processes for common issues to reduce talk time.
+
+This project was a fantastic opportunity to showcase my Power BI skills and deliver actionable insights. The dashboard not only looks great but also provides valuable information for decision-making.
