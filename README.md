@@ -8,7 +8,7 @@
 I recently developed an interactive Website Analysis Dashboard using Power BI, which provides insights into user behavior, purchase trends, and marketing effectiveness. This dashboard was created to help businesses understand their audience and optimize their strategies based on data-driven decisions.
 
 
-**Data Cleaning & Preparation**
+*Data Cleaning & Preparation*
 
 Before diving into visualization, I ensured that the data was clean and structured for accurate analysis. Key steps included:
 Handling missing values
@@ -16,7 +16,7 @@ Standardizing categorical variables
 Creating calculated columns for better insights
 
 
-**Key Insights & Analysis**
+*Key Insights & Analysis*
 
 1. User Demographics & Purchase Behavior
 
@@ -47,7 +47,7 @@ a) The highest number of purchases was recorded in categories like Supply Chain 
 b) This indicates strong demand in technology, healthcare, and logistics-related fields.
 
 
-**Recommendations**
+*Recommendations*
 
 a) Based on the data insights, I recommend:
 b) Optimizing digital marketing efforts for users marked as "Unknown" to better track their origins.
@@ -57,20 +57,20 @@ e) Geographical expansion strategies focusing on India while improving visibilit
 
 
 
-**Conclusion**
+*Conclusion*
 
 This dashboard showcases my ability to work with complex datasets, draw actionable insights, and create meaningful visualizations. If you’re interested in discussing data analysis and business intelligence further, feel free to connect with me!
 
 # Call Center Dashboard 
 
-**Overview**
+*Overview*
 I recently had the opportunity to analyze call center performance data, leveraging Power BI for visualization. Here’s a glimpse into my process and the insights I uncovered:
 
-**Step 1: Data Preparation**
+*Step 1: Data Preparation*
 Before diving into analysis, I ensured the dataset was clean and ready for visualization. This step was crucial for accurate analysis and smooth integration into Power BI.
 
 
-**Step 2: Key Metrics and Insights**
+*Step 2: Key Metrics and Insights*
 Using Power BI, I created an interactive dashboard highlighting key metrics such as:
 
 a)Average Satisfaction Rate: Tracks overall customer satisfaction.
@@ -81,16 +81,48 @@ e)Call Count by Month: Provides a monthly breakdown of call volumes.
 f)Resolved Calls by Topic: Breaks down call resolution by categories like contract-related, streaming, and technical support.
 
 
-**Key Insights**
+*Key Insights*
 
 a)Agent Performance: Jim has the highest number of answered calls and satisfaction ratings, indicating strong performance.
 b)Call Resolution: Streaming and technical support are the most common issues resolved.
 c)Monthly Trends: Call volumes remain stable with minor fluctuations.
 
-**Recommendations**
+*Recommendations*
 
 a)Training: Provide additional training for agents with lower satisfaction ratings.
 b)Resource Allocation: Ensure adequate staffing during peak call times.
 c)Process Improvement: Streamline processes for common issues to reduce talk time.
+
+This project was a fantastic opportunity to showcase my Power BI skills and deliver actionable insights. The dashboard not only looks great but also provides valuable information for decision-making.
+
+# World Sales Dashboard #
+
+*Overview*
+I analyzed global sales data, leveraging Power BI for visualization. Here’s a glimpse into my process and the insights I uncovered:
+
+*Step 1: Data Preparation*
+Before diving into analysis, I ensured the dataset was clean and ready for visualization. This step was crucial for accurate analysis and smooth integration into Power BI.
+
+*Step 2: Key Metrics and Insights*
+Using Power BI, I created an interactive dashboard highlighting key metrics such as:
+
+a)Sold Units: Total number of units sold.
+b)Sales: Total sales revenue generated.
+c)Profit: Total profit earned.
+d)Gross Sales: Total sales before discounts.
+e)Discounts by Product: Shows discounts applied to each product.
+f)Profit by Month: Tracks monthly profit trends.
+g)Units Sold by Product: Provides a breakdown of units sold by product.
+h)Sales by Segment: Breaks down sales by business segments.
+
+*Key Insights*
+a)Product Performance: Paseo contributes the highest percentage to gross sales and profit.
+b)Geographical Insights: The United States of America has the highest count of profitable transactions.
+c)Discount Impact: Discounts are strategically applied across products, with Paseo receiving the highest discount.
+
+*Recommendations*
+a)Product Focus: Increase marketing efforts for top-performing products like Paseo.
+b)Geographical Strategy: Focus on markets with high profitability, such as the United States.
+c)Promotions: Run targeted promotions to boost sales in underperforming regions.
 
 This project was a fantastic opportunity to showcase my Power BI skills and deliver actionable insights. The dashboard not only looks great but also provides valuable information for decision-making.
